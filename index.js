@@ -1,0 +1,1 @@
+document.getElementByid('date').innerHTML = new Date().toDateString();
